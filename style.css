@@ -1,0 +1,43 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    color: rgba(255, 255, 255, 0.8);
+    background-color: #212121;
+}
+
+.sect1 {
+    height: 82vh;
+}
+
+.sect1 a:hover {
+    margin-left: 4px;
+    
+}
+
+.sect2 {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+
+a:link {
+    color: rgba(255, 255, 255, 0.7);
+    text-decoration: none;
+}
+  
+
+a:visited {
+    color: rgba(255, 255, 255, 0.7);
+    text-decoration: none;
+}
+  
+
+a:hover {
+    color: rgba(255, 255, 255, 1);
+    text-decoration: none;
+}
+  
+a:active {
+    color: rgba(255, 255, 255, 0.7);
+    text-decoration: none;
+}
