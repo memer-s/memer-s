@@ -1,6 +1,28 @@
-### Hi there 👋
+### .
 
-I'm currently working on fiskadisc.se.
+```javascript
+let memer = {
+  name: memer,
+  age: 18,
+  favoriteTechnologies: {
+    "Javascript": [
+      "Vue.js",
+      "Nuxt",
+      "NodeJS"
+      "Express",
+      "Typescript",
+    ],
+    "Python": [
+      "Selenium"
+    ],
+    "C++": [
+      "SFML"   
+    ],
+    "HTML", // "Tech"
+    "CSS",
+  }
+}
+```
 
 
 <!--
