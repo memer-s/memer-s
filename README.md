@@ -1,7 +1,7 @@
 ### .
 
 ```javascript
-let memer = {
+let myProfile = {
   name: memer,
   age: 18,
   favoriteTechnologies: {
