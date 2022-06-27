@@ -1,3 +1,4 @@
+
 # Hi,
 
 My name is Mimer, and i like web development, computer science and embedded systems.
@@ -10,4 +11,8 @@ My name is Mimer, and i like web development, computer science and embedded syst
 
 contact: memer@memer.eu
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=memer-s&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<h4 align="center">
+
+[![Mimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=memer-s&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+</h4>
