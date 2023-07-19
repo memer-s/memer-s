@@ -9,8 +9,6 @@ My name is Mimer, and i like web development, computer science and embedded syst
 - Twitter: [birb 🦆](https://twitter.com/devMimer)
 - Github: [recursion](https://github.com/memer-s)
 
-contact: memer@memer.eu
-
 <h4 align="center">
 
 [![Mimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=memer-s&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
