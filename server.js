@@ -1,11 +1,13 @@
-const util = require('util');
-const exec = util.promisify(require('child_process').exec);
+const express = require("express");
+const app = express();
 
-async function run(cmd, cwd) {
-	const { stdout, stderr } = await exec(cmd, {cwd: cwd});
-  console.log('stdout:', stdout);
-  console.log('stderr:', stderr);
-	return {stdout, stderr};
-}
 
-run("npm install");
+app.get("/", (req, res) => {
+	res.sendFile(__dirname+"/index.html");
+})
+
+app.get("/style.css", (req, res) => {
+	res.sendFile(__dirname+"/style.css");
+})
+
+app.listen(8080);
